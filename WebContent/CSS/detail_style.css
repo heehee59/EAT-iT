@@ -1,0 +1,136 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+nav {
+	position: relative;
+	float: right;
+	width: 30%;
+	height: 800px;
+}
+section {
+	float: left;
+	width: 70%;
+	text-align: center;
+}
+footer {
+	float: left;
+	width: 100%;
+	background-color: yellow;
+}
+.align_center {
+	display: inline-block;
+}
+.title {
+	margin-top: 30px;
+	margin-left: 40px;
+	display: inline;
+	font-size: 25pt;
+	text-align: left;
+}
+div#restaurant_title_btn {
+	float: right;
+	margin-left:auto;
+}
+#jjimbtn {
+	width: 100px;
+	height: 70px;
+	border: none;
+	padding: 15px;
+	font-size: 15px;
+	cursor: pointer;
+	border-radius: 10px;
+	background-color:#3450b4;
+	color:white;
+}
+#reviewbtn {
+	width: 100px;
+	height: 70px;
+	border: none; 
+	padding: 15px;
+	font-size: 15px;
+	cursor: pointer;
+	border-radius: 10px;
+	background-color:#3450b4;
+	color:white;
+}
+div#restaurant_title {
+	text-align: left;
+	margin-top: 50px;
+	margin-left: auto;
+	display: flex;
+	align-items: center;
+}
+hr {
+	border: 0px;
+	height: 2px;
+	margin: 20px 0px 0px 40px;
+	width: 800px;
+	background-color: #f0f0f0;
+}
+table#retaurant_table {
+	margin: 40px;
+	width: 700px;
+	text-align: left;
+}
+#retaurant_table td {
+	padding: 5px;
+}
+table#img_table {
+	width: 100%;
+	height: 400px;
+	border-color: #f0f0f0; border-collapse : collapse;
+	text-align: center;
+	border-collapse: collapse;
+}
+table#review_table {
+	margin: 25px 0px 25px 40px;
+	border-collapse: collapse;
+	text-align: left;
+}
+table#review_table td {
+	padding: 10px;
+}
+table#review_table2 {
+	border-radius: 10px;
+	background-color:#f0f0f0;
+	border:none;
+}
+#submitbtn {
+	width: 100px;
+	height: 60px;
+	border: none;
+	padding: 15px;
+	text-align: center;
+	display: inline-block;
+	font-size: 15px;
+	cursor: pointer;
+	border-radius: 10px;
+	background-color:#3450b4;
+	color:white;
+}
+table#nav_table {
+	margin: 0px;
+	border-collapse: collapse;
+	width: 100%;
+}
+table#nav_table td#ad_space {
+	background-color: #f0f0f0;
+}
+div#map {
+	width: 100%;
+	height: 500px;
+}
+/* 메뉴바 스타일 */
+
+.searchImg {
+	margin-left:300px;
+	margin-top:13px;
+	margin-right:-150px;
+}
+
+.dropdown-content hr {
+	width:160px;
+	margin:auto;
+}
