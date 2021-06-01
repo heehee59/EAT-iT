@@ -1,5 +1,5 @@
 ## 🍕 EAT-iT
-* JSP 웹 프로젝트
+* JSP 반응형 웹 프로젝트
 * 테마별 맛집 추천 사이트, "EAT-iT"
 <img src="/Docs/eatit.gif">
 
